@@ -2,3 +2,6 @@ prueba/
 prueba3.4/
 prueba3.12/
 temp.txt
+.ipynb_checkpoints/
+*.zip
+.DS_Store
